@@ -19,16 +19,6 @@ Este é um projeto full-stack desenvolvido com **React.js** no frontend e **Node
 - Agrupamento visual por setor
 - Botões e modais para melhor experiência do usuário
 
-## 📁 Estrutura de Pastas (Frontend)
-
-src/
-├── components/
-│ └── RamalTable.jsx
-├── assets/
-│ └── logo.png
-├── App.js
-├── index.js
-
 
 ## 🚀 Tecnologias Utilizadas
 
