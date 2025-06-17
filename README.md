@@ -2,7 +2,7 @@
 
 Este é um projeto full-stack desenvolvido com **React.js** no frontend e **Node.js + Express** no backend, com o objetivo de cadastrar, editar, visualizar, filtrar e excluir ramais de uma empresa. 
 
-## 🔍 Funcionalidades
+## Funcionalidades
 
 - Controle de permissões (admin vs usuário)
 - Edição e atualização de dados em tempo real
@@ -41,7 +41,7 @@ Este sistema utiliza o localStorage para identificar o tipo de usuário:
 O projeto já está estruturado para futura migração para um banco de dados remoto (MongoDB Atlas, PostgreSQL, Supabase, entre outros), bastando ajustar a API no backend.
 
 ## Contribuição
-Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias! Esse projeto está em constante evolução 💪
+Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias! Esse projeto está em constante evolução.
 
 ## 🧑‍💻 Autor
 Desenvolvido com dedicação por Cintia Oliveira
