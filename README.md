@@ -43,8 +43,7 @@ O projeto já está estruturado para futura migração para um banco de dados re
 ## Contribuição
 Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias! Esse projeto está em constante evolução.
 
-## 🧑‍💻 Autor
-Desenvolvido com dedicação por Cintia Oliveira
+
 
 
 
