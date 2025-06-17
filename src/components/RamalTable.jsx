@@ -50,6 +50,13 @@ export default function RamalTable() {
       return;
     }
 
+    const emailJaExiste = ramais.some(r => r.email.toLowerCase() === email.toLocaleLowerCase());
+    if(emailJaExiste){
+      alert("Colaborador já cadastrado com este e-mail"); 
+      fecharModal();
+      return;
+    }
+
     axios.post(API_URL, novoRamal)
       .then(response => {
         setRamais([...ramais, response.data]);
